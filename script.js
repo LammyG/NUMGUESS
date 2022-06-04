@@ -1,5 +1,5 @@
  function guessNumber() {
-  var randomNum = Math.floor(Math.random() * 2 + 1);
+  var randomNum = Math.floor(Math.random() * 2);
  
 
   // output to the console for debugging
